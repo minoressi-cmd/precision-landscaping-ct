@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://precision-landscaping-ct.vercel.app/sitemap.xml
