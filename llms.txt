@@ -1,0 +1,31 @@
+# Precision Landscaping
+
+> Owner-operated landscaping company serving residential properties across Fairfield County, CT. Founded and operated by Finn Crotty. Phone: 203-727-8084. Email: precisionlandscapingct@gmail.com.
+
+Precision Landscaping offers lawn care, mulch installation, landscape design, tree and shrub trimming, and seasonal services including snow removal. The company is based in Fairfield, CT and serves Fairfield, Westport, Easton, Weston, Redding, Bridgeport, and Wilton. No subcontractors — same crew every visit. Fully insured.
+
+## Services
+
+- [Lawn Care & Maintenance](https://precision-landscaping-ct.vercel.app/services): Weekly mowing, edging, and striping on a consistent schedule across Fairfield County.
+- [Mulching](https://precision-landscaping-ct.vercel.app/services): Delivery, installation, bed edging, and cleanup. 50+ yards installed last season.
+- [Landscape Design](https://precision-landscaping-ct.vercel.app/services): Garden bed design, plant and flower installation, full-yard transformations.
+- [Tree & Shrub Trimming](https://precision-landscaping-ct.vercel.app/services): Hedge shaping, shrub pruning, clearance trimming.
+- [Seasonal Services](https://precision-landscaping-ct.vercel.app/services): Snow removal, fall leaf cleanup, spring property prep.
+
+## Service Area Pages
+
+- [Fairfield, CT Landscaping](https://precision-landscaping-ct.vercel.app/fairfield-ct-landscaping)
+- [Westport, CT Landscaping](https://precision-landscaping-ct.vercel.app/westport-ct-landscaping)
+- [Easton, CT Landscaping](https://precision-landscaping-ct.vercel.app/easton-ct-landscaping)
+- [Weston, CT Landscaping](https://precision-landscaping-ct.vercel.app/weston-ct-landscaping)
+- [Redding, CT Landscaping](https://precision-landscaping-ct.vercel.app/redding-ct-landscaping)
+- [Bridgeport, CT Landscaping](https://precision-landscaping-ct.vercel.app/bridgeport-ct-landscaping)
+- [Wilton, CT Landscaping](https://precision-landscaping-ct.vercel.app/wilton-ct-landscaping)
+
+## About
+
+- [About Precision Landscaping](https://precision-landscaping-ct.vercel.app/about): Owner-operated, no subcontractors, same crew every visit, fully insured. Based in Fairfield, CT.
+
+## Contact
+
+- [Book an Estimate](https://precision-landscaping-ct.vercel.app/contact): Free on-site estimates, same-day response. Call or text 203-727-8084.
